@@ -17,6 +17,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   name = "Hang Li"
 
 [blackfriday]
+  extensions = ["hardLineBreak"]
   # hrefTargetBlank = true
   # noreferrerLinks = true
   # nofollowLinks = true
@@ -55,9 +56,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  #[[params.social]]
-  #  name = "twitter"
-  #  url = "https://twitter.com/"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/hang-li-725353140/"
 
   [[params.social]]
     name = "email"
@@ -69,10 +70,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [menu]
 
-#  [[menu.main]]
-#    name = "Posts"
-#    url = "posts/"
-#    weight = 10
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
 
   [[menu.main]]
     name = "Notes"
