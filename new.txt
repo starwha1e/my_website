@@ -1,1 +1,0 @@
-git submodule add -b master https://github.com/starwha1e/starwha1e.github.io.git public

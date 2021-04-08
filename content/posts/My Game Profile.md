@@ -4,12 +4,11 @@ weight: 10
 date: 2020-12-22T17:32:00+08:00
 ---
 
-## Account info
 PSN id: Meikoww  
 Nintendo friend code: SW-6630-3212-5343  
 Steam profile page: https://steamcommunity.com/id/starwha1e/  
 
-## Multiplayer Games：
+## Online Multiplayer Games：
 Splatoon2 - 400h, rank:S+  
 CS:GO - 460h, rank: Master Guardian I  
 League of Legends - 1500h from season 2, rank: Platinum  
@@ -45,7 +44,7 @@ Devail May Cry 4 - 50h, game cleared
 Pokemon Shield - 50h, game cleared  
 Bayonetta2 - 30h, game cleared  
 Monster Hunter: World - 30h  
-Portal2 - 10h, game cleared  
+Portal2 - 10h  
 
 血源诅咒 - 70h 白金  
 女神异闻录5 - 100h 白金  
@@ -62,7 +61,7 @@ Portal2 - 10h, game cleared
 宝可梦盾 - 50h 通关  
 猎天使魔女2 - 30h 通关  
 怪物猎人世界 MHW - 30h  
-传送门2 Portal2 - 10h 通关  
+传送门2 Portal2 - 10h  
 
 ### Indie Games:
 Stardew Valley - 100h  
@@ -82,13 +81,15 @@ Human Resource Machine - 15h, game cleared
 人力资源机器 - 15h 通关  
 
 ## Mobile Games：
+Genshin Impact  
 Azur Lane  
 Shining Nikki  
 Mahjong Soul  
 
-碧蓝航线 - 11 图  
-闪耀暖暖 - 天梯颠覆未来之王  
-雀魂麻将 - 银之间  
+原神  
+碧蓝航线  
+闪耀暖暖  
+雀魂麻将  
 
 ## Game Platforms:
 Handheld game console：GBA、PSP、3DS  
@@ -96,7 +97,7 @@ Game console:PS2、PS4、FC、Switch
 Cloud gaming platfrorm:Google Stadia，Tencent Next，PS Playanywhere  
 
 掌机平台：GBA、PSP、3DS  
-主机平台：PS2、PS4、FC、Switch  
+主机平台：FC、PS2、PS4、Switch  
 云游戏平台：Google Stadia，Tencent Next，PS Playanywhere  
 
 
