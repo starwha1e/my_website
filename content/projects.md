@@ -10,3 +10,6 @@ Available at [bilibili](https://www.bilibili.com/video/BV17a411w7rB/) and [youtu
 
 ## OpenGL Scene
 Available [here](https://starwha1e.github.io/posts/opengl-scene/)
+
+## Game User Research and Design Analysis of Splatoon 2
+Available [here](https://starwha1e.github.io/posts/splatoon2/)
